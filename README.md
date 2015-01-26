@@ -23,7 +23,7 @@ The underlying database is a document-oriented database, in particular mongoDB. 
 Configuration
 -------------
 
-Check the configuration file at `` ocdb/constants.js `` and change if necessary. Place the SSL certificates at the location specified in the configuration file. See http://nodejs.org/api/tls.html on more inforamtion on how to generate certificates if none at hand.
+Check the configuration file at `` ocdb/constants.js `` and change if necessary. Place the SSL certificates at the location specified in the configuration file. See http://nodejs.org/api/tls.html on more information on how to generate certificates if none at hand.
 
 Running
 -------
